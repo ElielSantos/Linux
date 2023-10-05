@@ -1,11 +1,23 @@
 ## COMANDOS BÁSICOS LINUX
 
-ls: Lista os arquivos e pastas no diretório atual.
-
 pwd: Mostra o caminho completo do diretório atual.
-
+```
+LinuxMint@LinuxMint-D3200:~$ pwd
+/home/LinuxMint
+```
+ls: Lista os arquivos e pastas no diretório atual.
+```
+LinuxMint@LinuxMint-D3200:~$ ls
+'Área de Trabalho'   Imagens     Música   
+ Documentos          Público     Vídeos
+ Downloads           Modelos     
+LinuxMint@LinuxMint-D3200:~$
+```
 cd: Altera o diretório atual. Por exemplo, cd /pasta o levará para a pasta chamada "pasta".
-
+```
+LinuxMint@LinuxMint-D3200:~$ cd
+LinuxMint@LinuxMint-D3200:~/home$
+```
 mkdir: Cria um novo diretório. Por exemplo, mkdir novo_diretorio criará uma pasta chamada "novo_diretorio".
 
 touch: Cria um novo arquivo vazio. Por exemplo, touch arquivo.txt criará um arquivo chamado "arquivo.txt".
