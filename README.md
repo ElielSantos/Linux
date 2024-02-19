@@ -23,6 +23,18 @@ $ df: Mostra informações sobre o espaço em disco disponível nas partições.
 $ man - manual linux
 $ help - use help para encontrar algum comando não listado
 $ hostname - exibe nome da máquina
+$ history - exibe os comando digitados pelo usuário.
+last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
+
+PAREI NO L - guia linux https://guialinux.uniriotec.br/
+--------------REDE LINUX------------------- 
+ping www.google.com
+ping -a
+ipconfig
+ipconfig -a
+
+$ nbtscan 192.168.1.1 - Descobrir o hostname do IP.
+
 
 
 --------------TOR------------------- 
@@ -34,3 +46,8 @@ $ proxychains firefox {open mozila}
 
 --------------SHUTDOWN------------------- 
 $ shutdown -h now
+$ shutdown -h 21:55
+$ shutdown -h +45
+$ shutdown -c
+$ shutdown now
+
