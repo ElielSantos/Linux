@@ -1,8 +1,3 @@
-## COMANDOS BÁSICOS LINUX
-
- 
-df: Mostra informações sobre o espaço em disco disponível nas partições.
-
 --------------LINUX------------------- 
 $ sudo - root
 $ / - diretorio
@@ -24,6 +19,7 @@ $ ps - mostrar processos em execução
 $ chmod - permissões de um arquivo ou diretório [chmod 755 arquivo.txt {vira root}]
 $ grep - grep "texto" arquivo.txt procurará a palavra "texto" no arquivo "arquivo.txt".
 $ df: Mostra informações sobre o espaço em disco disponível nas partições.
+$ df: Mostra informações sobre o espaço em disco disponível nas partições.
 $ man - manual linux
 $ help - use help para encontrar algum comando não listado
 $ hostname - exibe nome da máquina
@@ -38,9 +34,3 @@ $ proxychains firefox {open mozila}
 
 --------------SHUTDOWN------------------- 
 $ shutdown -h now
-
-
-
-
- 
- 
