@@ -7,6 +7,7 @@
 - $ touch - {novo file.txt}
 - $ clear - limpa o terminal
 - $ exit - sai do terminal
+- $ w - mostrar usuários logado
 - $ mv - renomeia/move file ou diretorios
 - $ pwd - diretório atual
 - $ ls - Listar arquivos 
