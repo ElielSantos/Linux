@@ -7,7 +7,8 @@
 - $ touch - {novo file.txt}
 - $ clear - limpa o terminal
 - $ exit - sai do terminal
-- $ w - mostrar usuários logado
+- $ w - Mostra quem está conectado e o que está fazendo.
+- $ whatis - Mostra um resumo sobre um ou mais comandos.
 - $ mv - renomeia/move file ou diretorios
 - $ pwd - diretório atual
 - $ ls - Listar arquivos 
@@ -17,6 +18,8 @@
 - $ top - sistema e os processos
 - $ kill - matar processos em execução
 - $ ps - mostrar processos em execução
+- $ who - informa quais os usuários que estão conectados.
+- $ xman - aplicativo gráfico de exibição da documentação do Linux.
 - $ chmod - permissões de um arquivo ou diretório [chmod 755 arquivo.txt {vira root}]
 - $ grep - grep "texto" arquivo.txt procurará a palavra "texto" no arquivo "arquivo.txt".
 - $ df: Mostra informações sobre o espaço em disco disponível nas partições.
@@ -27,8 +30,7 @@
 - $ history - exibe os comando digitados pelo usuário.
 - $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
 
-- PAREI NO L - guia linux https://guialinux.uniriotec.br/
---------------REDE LINUX------------------- 
+ --------------REDE LINUX------------------- 
 - $ ping www.google.com
 - $ ping -a
 - $ ipconfig
