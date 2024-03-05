@@ -15,7 +15,7 @@
 - $ cal - calendario
 - $ date - data e hora
 - $ nano - para abrir arquivo file
-- $ top - sistema e os processos
+- $ htop - sistema e os processos
 - $ kill - matar processos em execução
 - $ ps - mostrar processos em execução
 - $ who - informa quais os usuários que estão conectados.
