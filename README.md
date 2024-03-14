@@ -53,5 +53,6 @@
 --------------/etc------------------- 
 - cd /etc/  - nano hosts [127.0.0.1       localhost]
 
-
-
+--------------/CAL------------------- 
+- $ expr 2 + 8 #comEspaçosEntreAsSomas
+- echo"(9 + 3) * 5" | bc - resultado (25)
