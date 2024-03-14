@@ -13,6 +13,7 @@
 - $ pwd - diretório atual
 - $ ls - Listar arquivos 
 - $ cal - calendario
+- $ cat teste.txt (Lista dados do Arquivo)
 - $ date - data e hora
 - $ nano - para abrir arquivo file
 - $ htop - sistema e os processos
@@ -56,3 +57,4 @@
 --------------/CAL------------------- 
 - $ expr 2 + 8 #comEspaçosEntreAsSomas
 - echo"(9 + 3) * 5" | bc - resultado (25)
+- passwd @seuUsuario (Nova senha)
