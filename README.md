@@ -11,7 +11,8 @@
 - $ whatis - Mostra um resumo sobre um ou mais comandos.
 - $ mv - renomeia/move file ou diretorios
 - $ pwd - diretório atual
-- $ ls - Listar arquivos 
+- $ ls - Listar arquivos
+- $ ls -l - Lista os arquivos e diretórios no diretório atual
 - $ cal - calendario
 - $ cat teste.txt (Lista dados do Arquivo)
 - $ date - data e hora
