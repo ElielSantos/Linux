@@ -31,7 +31,7 @@
 - $ history - exibe os comando digitados pelo usuário.
 - $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
   
- --------------REDE LINUX------------------- 
+ --------------REDE LINUX--------------------------- 
 - $ ping www.google.com
 - $ ping -a
 - $ ipconfig
@@ -51,14 +51,14 @@
 - $ shutdown -c
 - $ shutdown now
 
---------------/etc----------------------------------
-- $ cd /etc/  - nano hosts [127.0.0.1       localhost]
-
---------------/CAL---------------------------------- 
+--------------/etc---------------------------------------
+- $ cd /etc/ - nano hosts [127.0.0.1 '0.0.0.0' localhost]
+- 
+--------------/CAL--------------------------------------- 
 - $ expr 2 + 8 #comEspaçosEntreAsSomas
 - $ echo"(9 + 3) * 5" | bc - resultado (25)
   
---------------USER------------------- 
+--------------USER--------------------------------------- 
 - $ sudo adduser [newuser]
 - $ sudo userdel -r [user]
 - $ passwd @seuUsuario [NovaSenha]
