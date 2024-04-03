@@ -57,10 +57,10 @@
 --------------/CAL---------------------------------- 
 - $ expr 2 + 8 #comEspaçosEntreAsSomas
 - $ echo"(9 + 3) * 5" | bc - resultado (25)
-- $ passwd @seuUsuario (Nova senha)
   
 --------------USER------------------- 
 - $ sudo adduser [newuser]
 - $ sudo userdel -r [user]
+- $ passwd @seuUsuario [NovaSenha]
 - $ w - Mostra quem está conectado e o que está fazendo.
 
