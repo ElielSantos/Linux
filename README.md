@@ -31,31 +31,30 @@
 - $ hostname - exibe nome da máquina
 - $ history - exibe os comando digitados pelo usuário.
 - $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
-
  --------------REDE LINUX------------------- 
 - $ ping www.google.com
 - $ ping -a
 - $ ipconfig
 - $ ipconfig -a
 - $ nbtscan 192.168.1.1 - Descobrir o hostname do IP.
-
---------------TOR------------------- 
+--------------TOR-------------------
 - $ service tor start
 - $ service tor status
 - $ service tor stop
 - $ proxychains firefox 
-
 --------------SHUTDOWN------------------- 
 - $ shutdown -h now
 - $ shutdown -h 21:55
 - $ shutdown -h +45
 - $ shutdown -c
 - $ shutdown now
-
---------------/etc------------------- 
+--------------/etc----------------------------------
 - cd /etc/  - nano hosts [127.0.0.1       localhost]
-
---------------/CAL------------------- 
+--------------/CAL---------------------------------- 
 - $ expr 2 + 8 #comEspaçosEntreAsSomas
 - echo"(9 + 3) * 5" | bc - resultado (25)
 - passwd @seuUsuario (Nova senha)
+--------------USER------------------- 
+Adicionar e Remover Usuários
+-sudo adduser [newuser]
+-sudo userdel -r [user]
