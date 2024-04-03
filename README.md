@@ -62,5 +62,8 @@
 - $ sudo adduser [newuser]
 - $ sudo userdel -r [user]
 - $ passwd @seuUsuario [NovaSenha]
-- $ w - Mostra quem está conectado e o que está fazendo.
+- $ w - Mostra quem está conectado e o que está fazendo
+- $ who - mostra quais são os usuários logados no sistema
+
+
 
