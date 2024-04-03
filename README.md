@@ -7,7 +7,6 @@
 - $ touch - {novo file.txt}
 - $ clear - limpa o terminal
 - $ exit - sai do terminal
-- $ w - Mostra quem está conectado e o que está fazendo.
 - $ watis - Mostra um resumo sobre um ou mais comandos.
 - $ mv - renomeia/move file ou diretorios
 - $ pwd - diretório atual
@@ -53,14 +52,15 @@
 - $ shutdown now
 
 --------------/etc----------------------------------
-- cd /etc/  - nano hosts [127.0.0.1       localhost]
+- $ cd /etc/  - nano hosts [127.0.0.1       localhost]
 
 --------------/CAL---------------------------------- 
 - $ expr 2 + 8 #comEspaçosEntreAsSomas
-- echo"(9 + 3) * 5" | bc - resultado (25)
-- passwd @seuUsuario (Nova senha)
+- $ echo"(9 + 3) * 5" | bc - resultado (25)
+- $ passwd @seuUsuario (Nova senha)
   
 --------------USER------------------- 
-Adicionar e Remover Usuários
--sudo adduser [newuser]
--sudo userdel -r [user]
+- $ sudo adduser [newuser]
+- $ sudo userdel -r [user]
+- $ w - Mostra quem está conectado e o que está fazendo.
+
