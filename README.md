@@ -19,7 +19,6 @@
 - $ htop - sistema e os processos
 - $ kill - matar processos em execução
 - $ ps - mostrar processos em execução
-- $ who - informa quais os usuários que estão conectados.
 - $ xman - aplicativo gráfico de exibição da documentação do Linux.
 - $ chmod - permissões de um arquivo ou diretório [chmod 755 arquivo.txt {vira root}]
 - $ grep - grep "texto" arquivo.txt procurará a palavra "texto" no arquivo "arquivo.txt".
