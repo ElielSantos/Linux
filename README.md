@@ -8,7 +8,7 @@
 - $ clear - limpa o terminal
 - $ exit - sai do terminal
 - $ w - Mostra quem está conectado e o que está fazendo.
-- $ whatis - Mostra um resumo sobre um ou mais comandos.
+- $ watis - Mostra um resumo sobre um ou mais comandos.
 - $ mv - renomeia/move file ou diretorios
 - $ pwd - diretório atual
 - $ ls - Listar arquivos
