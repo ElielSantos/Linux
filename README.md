@@ -2,8 +2,9 @@
 - $ neofetch - Dados do SO, de softwares ativos e hardwares
   
 --------------ATALHOS----------------- 
-- $ Ctrl + Alt + F3  TTY (Terminal de texto)
-- $ Ctrl + Alt + F7 Exit
+- $ Ctrl + Alt + F3  Terminal
+- $ Ctrl + Alt + F7 - Sair do Terminal
+- $ Ctrl + H - exibir ou ocultar arquivos(Pastas)
   
 --------------LINUX------------------- 
 - $ sudo - root
