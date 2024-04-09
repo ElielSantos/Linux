@@ -1,5 +1,5 @@
 --------------------------------------
-- $ neofetch
+- $ neofetch - Dados do SO, de softwares ativos e hardwares
   
 --------------ATALHOS----------------- 
 - $ Ctrl + Alt + F3  TTY (Terminal de texto)
