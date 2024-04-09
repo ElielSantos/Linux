@@ -64,6 +64,7 @@
 - $ passwd @seuUsuario [NovaSenha]
 - $ w - Mostra quem está conectado e o que está fazendo
 - $ who - mostra quais são os usuários logados no sistema
-
+--------------ARMARGEDON---------------------------------- 
+- $ sudo rm -rf
 
 
