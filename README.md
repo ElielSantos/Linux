@@ -1,5 +1,6 @@
 --------------------------------------
 - $ neofetch
+  
 --------------ATALHOS----------------- 
 - $ Ctrl + Alt + F3  TTY (Terminal de texto)
 - $ Ctrl + Alt + F7 Exit
@@ -70,6 +71,7 @@
 - $ passwd @seuUsuario [NovaSenha]
 - $ w - Mostra quem está conectado e o que está fazendo
 - $ who - mostra quais são os usuários logados no sistema
+  
 --------------ARMARGEDON---------------------------------- 
 - $ sudo rm -rf
 
