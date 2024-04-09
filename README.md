@@ -1,3 +1,6 @@
+--------------ATALHOS------------------- 
+- $ Ctrl + Alt + F3  TTY (Terminal de texto)
+- $ Ctrl + Alt + F7 Exit
 --------------LINUX------------------- 
 - $ sudo - root
 - $ / - diretorio
