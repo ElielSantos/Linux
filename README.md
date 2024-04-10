@@ -1,4 +1,4 @@
-- Copyright (c) 2024, Eliel Santos <santoscyberx@gmail.com>                                                         
+- Copyright (c) 2024, Eliel Santos <<santoscyberx@gmail.com>>                                                         
 - Este script é de código aberto e seu uso é liberado       
 
 --------------------------------------
