@@ -78,5 +78,7 @@
   
 --------------ARMARGEDON---------------------------------- 
 - $ sudo rm -rf
+- xdg-screensaver lock (Atalho de Teclado)
+
 
 
