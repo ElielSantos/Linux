@@ -27,7 +27,7 @@
 - $ cal - calendario
 - $ cat teste.txt (Lista dados do Arquivo)
 - $ date - data e hora
-- $ nano - para abrir arquivo file
+- $ nano/xed - para abrir arquivo file
 - $ htop - sistema e os processos
 - $ kill - matar processos em execução
 - $ ps - mostrar processos em execução
