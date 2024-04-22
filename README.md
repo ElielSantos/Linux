@@ -32,7 +32,7 @@
 - $ kill - matar processos em execução
 - $ ps - mostrar processos em execução
 - $ xman - aplicativo gráfico de exibição da documentação do Linux.
-- $ chmod - permissões de um arquivo ou diretório [chmod 755 arquivo.txt {vira root}]
+- $ chmod +x - permissões de um arquivo ou diretório  
 - $ grep - grep "texto" arquivo.txt procurará a palavra "texto" no arquivo "arquivo.txt".
 - $ df: Mostra informações sobre o espaço em disco disponível nas partições.
 - $ df: Mostra informações sobre o espaço em disco disponível nas partições.
