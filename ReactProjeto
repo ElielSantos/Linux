@@ -4,7 +4,7 @@ Baixandoo arquivo tar.xz do nodejs, e extraia na pasta Dowloads, onde sera usada
 -----------------------------
 1 exportando o diretorio do nodejs para execução:
 
-export PATH=/home/nista/Downloads/node-v20.12.2-linux-x64/bin:$PATH
+$ export PATH=/home/nista/Downloads/node-v20.12.2-linux-x64/bin:$PATH
 -----------------------------
   Welcome to Node.js v20
 >
