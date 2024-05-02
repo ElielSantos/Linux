@@ -11,8 +11,8 @@ export PATH=/home/nista/Downloads/node-v20.12.2-linux-x64/bin:$PATH
 -----------------------------
 2 Iniciar Projeto no React
 
-npm install -g create-react-app
-create-react-app workshop-react 
+$ npm install -g create-react-app
+$ create-react-app workshop-react 
 ----------------------------
 3 
 ----------------------------
@@ -20,3 +20,8 @@ cd workshop-react
 code .
 npm start
 ----------------------------
+
+Iniciar o Nextjs
+
+$ npx create-next-app@latest
+$ create-next-app
