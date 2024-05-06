@@ -1,0 +1,8 @@
+
+cd /home Ctrl + H
+.bashrc
+sudo nano ~/.wgetrc
+
+export http_proxy="http://login:senha@proxycientifica.sesp.parana:8080"
+export https_proxy="http://login:senha@proxycientifica.sesp.parana:8080"
+
