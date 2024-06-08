@@ -41,7 +41,7 @@
 - $ hostname - exibe nome da máquina
 - $ history - exibe os comando digitados pelo usuário.
 - $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
-- - $ dm-tool lock (Atalho de Teclado)
+- $ dm-tool lock (Atalho de Teclado)
   
  --------------REDE LINUX--------------------------- 
 - $ ping www.google.com
