@@ -18,10 +18,11 @@ $ sudo grub-install /dev/sda - Instalar o GRUB no diredorio especificado '/dev/s
 =========================================================================================================
 
 ERROS DO BUSYBOX NA INICIALIZAÇÃO DO LINUX
--------------------------------------------------------
-exemplo de erro: BusyBox v1.30.1 (Ubuntu 1:1.30.1-4ubuntu6.1) built-in shell (ash)
+------------------------------------------------------------------
+exemplo de erro:
+BusyBox v1.30.1 (Ubuntu 1:1.30.1-4ubuntu6.1) built-in shell (ash)
                   (initramfs)
--------------------------------------------------------
+------------------------------------------------------------------
 $ exit 
 - vai aparecer algo como:
 -----------------------------------------------------------
@@ -32,3 +33,4 @@ $ exit
 -----------------------------------------------------------
 $ fsck /dev/sda3 -y (for fixed a pratition)
 $ reboot or exit 
+
