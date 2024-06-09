@@ -1,9 +1,13 @@
-- > ls
-- > set boot=(hd0,msdos5)
-- > set prefix=(hd0,msdos5)/boot/grub
-- > insmod normal
-- > normal
-- Reiniciar
+ERRO NA INICIALIZAÇÃO DO GRUB
+
+(initframs)
+
+_> ls
+_> set boot=(hd0,msdos5)
+_> set prefix=(hd0,msdos5)/boot/grub
+_> insmod normal
+_> normal
+_> reboot ou exit (Reiniciar)
 
 - Reistalar o GRUB
 - Para sistemas UEFI) sudo apt-get install --reinstall grub-efi-amd64 
@@ -11,3 +15,7 @@
 
 - sudo grub-install /dev/sda - Instalar o GRUB no diredorio especificado '/dev/sda'
 
+
+=========================================================================================================
+
+ERROS DO BUSYBOX NA INICIALIZAÇÃO DO LINUX
