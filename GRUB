@@ -1,21 +1,34 @@
 ERRO NA INICIALIZAÇÃO DO GRUB
 
-(initframs)
+(initramfs)
 
-_> ls
-_> set boot=(hd0,msdos5)
-_> set prefix=(hd0,msdos5)/boot/grub
-_> insmod normal
-_> normal
-_> reboot ou exit (Reiniciar)
+$ ls
+$ set boot=(hd0,msdos5)
+$ set prefix=(hd0,msdos5)/boot/grub
+$ insmod normal
+$ normal
+$ reboot or exit 
 
 - Reistalar o GRUB
-- Para sistemas UEFI) sudo apt-get install --reinstall grub-efi-amd64 
-- Para sistemas BIOS) sudo apt-get install --reinstall grub-pc
+- Para sistemas UEFI) $ sudo apt-get install --reinstall grub-efi-amd64 
+- Para sistemas BIOS) $ sudo apt-get install --reinstall grub-pc
 
-- sudo grub-install /dev/sda - Instalar o GRUB no diredorio especificado '/dev/sda'
-
+$ sudo grub-install /dev/sda - Instalar o GRUB no diredorio especificado '/dev/sda'
 
 =========================================================================================================
 
 ERROS DO BUSYBOX NA INICIALIZAÇÃO DO LINUX
+-------------------------------------------------------
+exemplo de erro: BusyBox v1.30.1 (Ubuntu 1:1.30.1-4ubuntu6.1) built-in shell (ash)
+                  (initramfs)
+-------------------------------------------------------
+$ exit 
+- vai aparecer algo como:
+-----------------------------------------------------------
+- /dev/sda6: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY. -
+-        (i.e., without -a or -p options)                 -
+- fsck exited with status code 4                          -
+- The root filesystem on /dev/sda3 requires a manual fsck -
+-----------------------------------------------------------
+$ fsck /dev/sda3 -y (for fixed a pratition)
+$ reboot or exit 
