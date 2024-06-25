@@ -61,7 +61,9 @@
 - $ shutdown -h +45
 - $ shutdown -c
 - $ shutdown now
-
+- $ reboot
+- $ uptime (-p)
+- 
 --------------/etc----------------------------------------
 - $ cd /etc/ - nano hosts [127.0.0.1 '0.0.0.0' localhost]
   
