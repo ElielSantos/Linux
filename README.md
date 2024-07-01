@@ -40,9 +40,10 @@
 - $ help - use help para encontrar algum comando não listado
 - $ hostname - exibe nome da máquina
 - $ history - exibe os comando digitados pelo usuário.
-~$ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
-~$ uptime (-p) "Quanto tempo o sistema está rodando"
-~$ sudo su  
+- $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
+- $ uptime (-p) "Quanto tempo o sistema está rodando"
+- $ sudo su "permite mudar de usuário para root"
+  
  --------------REDE LINUX--------------------------- 
 - $ ping www.google.com
 - $ ping -a
