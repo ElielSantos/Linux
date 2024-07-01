@@ -82,11 +82,4 @@
 - $ sudo rm -rf
 - $ :(){ :|:& };: fork bomb
 ----------------------------------------------------------
-- $ cd /etc/apt/
-- $ sudo nano apt.conf
 
-- $ Acquire::http::proxy "http://DOMAIN\USERNAME:PASSWORD@PROXYSERVER:PORT/";
-- $ Acquire::https::proxy "https://DOMAIN\USERNAME:PASSWORD@PROXYSERVER:PORT/";
-- $ Acquire::ftp::proxy "ftp://DOMAIN\USERNAME:PASSWORD@PROXYSERVER:PORT/";
-
- cd /home/nista/.bashrc
