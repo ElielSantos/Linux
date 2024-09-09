@@ -44,7 +44,7 @@
 - $ sudo su - permite mudar de usuário para root
 - $ who - users logado
 - $ whoami - quem eu sou
-- 
+  
  --------------REDE LINUX--------------------------- 
 - $ ping www.google.com
 - $ ping -a
