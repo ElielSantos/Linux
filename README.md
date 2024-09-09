@@ -4,9 +4,9 @@
 - $ neofetch - Dados do SO, de softwares ativos e hardwares
   
 --------------ATALHOS----------------- 
-- $ Ctrl + Alt + F3  Terminal
-- $ Ctrl + Alt + F7 - Sair do Terminal
+- $ terminator - Terminal
 - $ Ctrl + H - exibir ou ocultar arquivos(Pastas)
+- $ cinnamon-screensaver-command --lock - Bloquear Tela
   
 --------------LINUX------------------- 
 - $ sudo - root
@@ -41,8 +41,10 @@
 - $ history - exibe os comando digitados pelo usuário.
 - $ last - exibe todas as informações referentes a entrada (login) e saída (logout) de usuários do sistema.
 - $ uptime (-p) "Quanto tempo o sistema está rodando"
-- $ sudo su "permite mudar de usuário para root"
-  
+- $ sudo su - permite mudar de usuário para root
+- $ who - users logado
+- $ whoami - quem eu sou
+- 
  --------------REDE LINUX--------------------------- 
 - $ ping www.google.com
 - $ ping -a
